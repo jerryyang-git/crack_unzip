@@ -9,7 +9,7 @@
 
 ## 更优选择
 
-[ArchivePasswordTestTool](https://github.com/dawn-lc/ArchivePasswordTestTool)
+[ArchivePasswordTestTool](https://github.com/dawn-lc/ArchivePasswordTestTool) （使用 **C#** 写的压缩包密码测试工具)
 
 ## 一些密码本
 
