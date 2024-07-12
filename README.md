@@ -7,6 +7,10 @@
 
 内置拉取[galgame-Password.txt](https://github.com/jerryyang-git/compressed_password_book/blob/main/galgame-Password.txt) 密码文件 **选项** 或者自定义txt文件  
 
+## 更优选择
+
+[ArchivePasswordTestTool](https://github.com/dawn-lc/ArchivePasswordTestTool)
+
 ## 一些密码本
 
 [EroPassword](https://github.com/baidusama/EroPassword)
